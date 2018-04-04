@@ -1,1 +1,1 @@
-/home/stephen/dotfiles
+/home/stephen/.bashrc
