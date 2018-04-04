@@ -3,3 +3,9 @@ Host caen
 	HostName login.engin.umich.edu
 	User stepzhu
 	Compression yes
+
+# UMich GitLab
+Host gitlab
+	HostName gitlab.com
+	User git
+	IdentityFile ~/.ssh/stepzhu
